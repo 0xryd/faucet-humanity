@@ -26,15 +26,23 @@ const writeLog = (message) => {
   const logMessage = `[${new Date().toISOString()}] ${message}\n`;
   appendFileSync(logFile, logMessage);
 };
+
+// Fungsi untuk menampilkan sebagian address
+const maskAddress = (address) => {
+  return `${address.slice(0, 6)}...${address.slice(-4)}`;
+};
+
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const requestFaucet = async () => {
   for (const [index, privateKey] of privateKeys.entries()) {
     try {
       const wallet = new Wallet(privateKey);
       const walletAddress = wallet.address;
+      const maskedAddress = maskAddress(walletAddress);
 
-      console.log(`🚀 Requesting faucet for address: ${walletAddress}`);
-      writeLog(`🚀 Requesting faucet for address: ${walletAddress}`);
+      console.log(`🚀 Requesting faucet for address: ${maskedAddress}`);
+      writeLog(`🚀 Requesting faucet for address: ${maskedAddress}`);
 
       const response = await fetch(url, {
         method: 'POST',
@@ -45,19 +53,19 @@ const requestFaucet = async () => {
       const data = await response.json();
       if (data.msg && data.msg.startsWith('Txhash:')) {
         const txHash = data.msg.split('Txhash: ')[1];
-        console.log(`✅ Success! Address: ${walletAddress}`);
+        console.log(`✅ Success! Address: ${maskedAddress}`);
         console.log(`🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/${txHash}`);
 
-        writeLog(`✅ Success! Address: ${walletAddress}`);
+        writeLog(`✅ Success! Address: ${maskedAddress}`);
         writeLog(`🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/${txHash}`);
       } else {
-        console.log(`⚠️ Unexpected Response for ${walletAddress}:`, data);
-        writeLog(`⚠️ Unexpected Response for ${walletAddress}: ${JSON.stringify(data)}`);
+        console.log(`⚠️ Unexpected Response for ${maskedAddress}:`, data);
+        writeLog(`⚠️ Unexpected Response for ${maskedAddress}: ${JSON.stringify(data)}`);
       }
 
     } catch (error) {
-      console.error(`❌ Error processing ${walletAddress}:`, error);
-      writeLog(`❌ Error processing ${walletAddress}: ${error.message}`);
+      console.error(`❌ Error processing ${maskAddress(walletAddress)}:`, error);
+      writeLog(`❌ Error processing ${maskAddress(walletAddress)}: ${error.message}`);
     }
     if (index < privateKeys.length - 1) {
       console.log(`⏳ Waiting 1 minute before the next request...`);
@@ -66,4 +74,5 @@ const requestFaucet = async () => {
     }
   }
 };
+
 requestFaucet();
