@@ -1,4 +1,4 @@
-name: LayerEdge
+name: Humanity Faucet
 on:
   workflow_dispatch:
 
