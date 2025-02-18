@@ -3,8 +3,9 @@ import { Wallet } from 'ethers';
 
 const filePath = './privateKeys.json';
 const privateKeys = JSON.parse(readFileSync(filePath, 'utf-8'));
+
 if (privateKeys.length === 0) {
-  console.error('Error: Tidak ada private key dalam file.');
+  console.error('❌ Error: Private key not found.');
   process.exit(1);
 }
 
@@ -17,13 +18,14 @@ const headers = {
   'Referer': 'https://faucet.testnet.humanity.org/',
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36'
 };
+
 const requestFaucet = async () => {
   for (const privateKey of privateKeys) {
     try {
       const wallet = new Wallet(privateKey);
       const walletAddress = wallet.address;
 
-      console.log(`Requesting faucet for address: ${walletAddress}`);
+      console.log(`🚀 Requesting faucet for address: ${walletAddress}`);
 
       const response = await fetch(url, {
         method: 'POST',
@@ -32,11 +34,16 @@ const requestFaucet = async () => {
       });
 
       const data = await response.json();
-      console.log(`Response for ${walletAddress}:`, data);
+      if (data.msg && data.msg.startsWith('Txhash:')) {
+        console.log(`✅ Success! Address: ${walletAddress}`);
+        console.log(`🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/${data.msg.split('Txhash: ')[1]}`);
+      } else {
+        console.log(`⚠️ Unexpected Response for ${walletAddress}:`, data);
+      }
+
     } catch (error) {
-      console.error(`Error processing ${privateKey}:`, error);
+      console.error(`❌ Error processing ${walletAddress}:`, error);
     }
   }
 };
-
 requestFaucet();
