@@ -1,9 +1,8 @@
 import { readFileSync } from 'fs';
 import { Wallet } from 'ethers';
 
-const filePath = './privateKeys.json'; // Sesuaikan path jika perlu
-const privateKeys = JSON.parse(readFileSync(filePath, 'utf-8')); // Membaca file JSON
-
+const filePath = './privateKeys.json';
+const privateKeys = JSON.parse(readFileSync(filePath, 'utf-8'));
 if (privateKeys.length === 0) {
   console.error('Error: Tidak ada private key dalam file.');
   process.exit(1);
@@ -18,8 +17,6 @@ const headers = {
   'Referer': 'https://faucet.testnet.humanity.org/',
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36'
 };
-
-// Loop untuk setiap private key dalam file JSON
 const requestFaucet = async () => {
   for (const privateKey of privateKeys) {
     try {
