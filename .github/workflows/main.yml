@@ -71,13 +71,6 @@ jobs:
 
       - name: Commit and Push Updated Log
         run: |
-          echo "🔄 Checking for log.txt updates..."
-          if git diff --quiet log.txt; then
-            echo "✅ No changes detected in log.txt. Skipping commit."
-            exit 0
-          fi
-
-          echo "📌 Committing changes..."
           git config --global user.name "$GIT_NAME"
           git config --global user.email "$GIT_EMAIL"
           git add log.txt
