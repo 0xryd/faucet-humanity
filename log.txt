@@ -7596,3 +7596,215 @@
 [2025-02-27T02:25:52.411Z] ⏳ Waiting 1 minute before the next request...
 [2025-02-27T02:26:52.468Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
 [2025-02-27T02:26:52.791Z] ⚠️ Unexpected Response for 0xeD7e...ecDD: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:26:26.847Z] 🚀 Requesting faucet for address: 0x0000...DE66
+[2025-02-27T06:26:27.387Z] ⚠️ Unexpected Response for 0x0000...DE66: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:26:27.387Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:27:27.393Z] 🚀 Requesting faucet for address: 0xF59C...ab26
+[2025-02-27T06:27:27.711Z] ⚠️ Unexpected Response for 0xF59C...ab26: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:27:27.711Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:28:27.752Z] 🚀 Requesting faucet for address: 0xc67b...dC33
+[2025-02-27T06:28:28.061Z] ⚠️ Unexpected Response for 0xc67b...dC33: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:28:28.061Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:29:28.105Z] 🚀 Requesting faucet for address: 0xB256...A874
+[2025-02-27T06:29:28.416Z] ⚠️ Unexpected Response for 0xB256...A874: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:29:28.416Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:30:28.425Z] 🚀 Requesting faucet for address: 0x15A6...dADc
+[2025-02-27T06:30:28.745Z] ⚠️ Unexpected Response for 0x15A6...dADc: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:30:28.745Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:31:28.802Z] 🚀 Requesting faucet for address: 0xA7C0...71a1
+[2025-02-27T06:31:29.294Z] ⚠️ Unexpected Response for 0xA7C0...71a1: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:31:29.294Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:32:29.300Z] 🚀 Requesting faucet for address: 0xCD2c...97ae
+[2025-02-27T06:32:29.620Z] ⚠️ Unexpected Response for 0xCD2c...97ae: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:32:29.620Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:33:29.633Z] 🚀 Requesting faucet for address: 0x4964...da51
+[2025-02-27T06:33:29.950Z] ⚠️ Unexpected Response for 0x4964...da51: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:33:29.950Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:34:29.985Z] 🚀 Requesting faucet for address: 0x9090...f2A4
+[2025-02-27T06:34:30.296Z] ⚠️ Unexpected Response for 0x9090...f2A4: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:34:30.296Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:35:30.353Z] 🚀 Requesting faucet for address: 0x19a6...b39f
+[2025-02-27T06:35:30.663Z] ⚠️ Unexpected Response for 0x19a6...b39f: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:35:30.663Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:36:30.720Z] 🚀 Requesting faucet for address: 0xf72D...A4fb
+[2025-02-27T06:36:31.201Z] ⚠️ Unexpected Response for 0xf72D...A4fb: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:36:31.201Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:37:31.256Z] 🚀 Requesting faucet for address: 0x6423...722a
+[2025-02-27T06:37:31.565Z] ⚠️ Unexpected Response for 0x6423...722a: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:37:31.566Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:38:31.617Z] 🚀 Requesting faucet for address: 0x6889...24D6
+[2025-02-27T06:38:31.934Z] ⚠️ Unexpected Response for 0x6889...24D6: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:38:31.934Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:39:31.981Z] 🚀 Requesting faucet for address: 0xeCfC...24eE
+[2025-02-27T06:39:32.299Z] ✅ Success! Address: 0xeCfC...24eE
+[2025-02-27T06:39:32.299Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5bec40b3c752a450c8e3b53e20b60c50ff3b5597486597b93c12f6341d4c1ca8
+[2025-02-27T06:39:32.299Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:40:32.355Z] 🚀 Requesting faucet for address: 0x9eA7...0948
+[2025-02-27T06:40:32.673Z] ✅ Success! Address: 0x9eA7...0948
+[2025-02-27T06:40:32.673Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3d87e6a0b94c7ca7c85b7acc06d425721be08fb15f96ec6116f70abb1a853011
+[2025-02-27T06:40:32.673Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:41:32.717Z] 🚀 Requesting faucet for address: 0xB31C...d3B1
+[2025-02-27T06:41:33.199Z] ⚠️ Unexpected Response for 0xB31C...d3B1: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:41:33.199Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:42:33.219Z] 🚀 Requesting faucet for address: 0x21e6...7F2c
+[2025-02-27T06:42:33.536Z] ⚠️ Unexpected Response for 0x21e6...7F2c: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:42:33.536Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:43:33.593Z] 🚀 Requesting faucet for address: 0x4e50...A51F
+[2025-02-27T06:43:33.902Z] ⚠️ Unexpected Response for 0x4e50...A51F: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:43:33.902Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:44:33.905Z] 🚀 Requesting faucet for address: 0xd70C...99E2
+[2025-02-27T06:44:34.222Z] ✅ Success! Address: 0xd70C...99E2
+[2025-02-27T06:44:34.222Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc1d2ea5e8f4c0da1601195bbe04fd854d0ffaa4e98f8190016da464df2a9b2b0
+[2025-02-27T06:44:34.223Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:45:34.258Z] 🚀 Requesting faucet for address: 0x7606...3b1C
+[2025-02-27T06:45:34.575Z] ⚠️ Unexpected Response for 0x7606...3b1C: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:45:34.575Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:46:34.602Z] 🚀 Requesting faucet for address: 0x2277...a323
+[2025-02-27T06:46:34.921Z] ⚠️ Unexpected Response for 0x2277...a323: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:46:34.921Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:47:34.936Z] 🚀 Requesting faucet for address: 0x36Bb...9B5C
+[2025-02-27T06:47:35.244Z] ⚠️ Unexpected Response for 0x36Bb...9B5C: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:47:35.244Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:48:35.281Z] 🚀 Requesting faucet for address: 0x1596...E5db
+[2025-02-27T06:48:35.589Z] ⚠️ Unexpected Response for 0x1596...E5db: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:48:35.590Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:49:35.648Z] 🚀 Requesting faucet for address: 0x7f9A...Ae67
+[2025-02-27T06:49:35.965Z] ⚠️ Unexpected Response for 0x7f9A...Ae67: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:49:35.965Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:50:36.000Z] 🚀 Requesting faucet for address: 0x1a73...3A1B
+[2025-02-27T06:50:36.317Z] ⚠️ Unexpected Response for 0x1a73...3A1B: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:50:36.317Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:51:36.338Z] 🚀 Requesting faucet for address: 0x5e63...405e
+[2025-02-27T06:51:36.825Z] ⚠️ Unexpected Response for 0x5e63...405e: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:51:36.825Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:52:36.877Z] 🚀 Requesting faucet for address: 0x1Afe...13bF
+[2025-02-27T06:52:37.194Z] ⚠️ Unexpected Response for 0x1Afe...13bF: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:52:37.194Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:53:37.236Z] 🚀 Requesting faucet for address: 0x7cC4...Ac27
+[2025-02-27T06:53:37.544Z] ✅ Success! Address: 0x7cC4...Ac27
+[2025-02-27T06:53:37.544Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7681b7b7449cc15842e97eaaf5075cfe5c4dd9bb5fba16041f4c9a6707af100a
+[2025-02-27T06:53:37.544Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:54:37.560Z] 🚀 Requesting faucet for address: 0x0147...fe2f
+[2025-02-27T06:54:37.868Z] ⚠️ Unexpected Response for 0x0147...fe2f: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:54:37.868Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:55:37.925Z] 🚀 Requesting faucet for address: 0x5Fd5...5d01
+[2025-02-27T06:55:38.242Z] ✅ Success! Address: 0x5Fd5...5d01
+[2025-02-27T06:55:38.242Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc735c2379ce4c12d631413db575fc7b571566b08c5b14bc04e05b181a627e3d7
+[2025-02-27T06:55:38.242Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:56:38.262Z] 🚀 Requesting faucet for address: 0x0001...B22E
+[2025-02-27T06:56:38.780Z] ⚠️ Unexpected Response for 0x0001...B22E: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:56:38.780Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:57:38.837Z] 🚀 Requesting faucet for address: 0xe86C...A89D
+[2025-02-27T06:57:39.155Z] ✅ Success! Address: 0xe86C...A89D
+[2025-02-27T06:57:39.155Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x757c6e7a43a8bcb489bedf980e458702757cfc0fe27b766403c5ae0346a34f06
+[2025-02-27T06:57:39.155Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:58:39.212Z] 🚀 Requesting faucet for address: 0x7480...41C3
+[2025-02-27T06:58:39.532Z] ✅ Success! Address: 0x7480...41C3
+[2025-02-27T06:58:39.532Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x14b0004295160ffe3af18536b107811b471ce4db6abf4998f5f0363458fdeb88
+[2025-02-27T06:58:39.532Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T06:59:39.589Z] 🚀 Requesting faucet for address: 0x7036...cd73
+[2025-02-27T06:59:39.898Z] ⚠️ Unexpected Response for 0x7036...cd73: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T06:59:39.898Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:00:39.926Z] 🚀 Requesting faucet for address: 0x2ccE...7922
+[2025-02-27T07:00:40.244Z] ✅ Success! Address: 0x2ccE...7922
+[2025-02-27T07:00:40.244Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x881269741b8f0ae927291a3dd34f98cb70a0d627d6e09342b6f088ab9c691a2e
+[2025-02-27T07:00:40.244Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:01:40.301Z] 🚀 Requesting faucet for address: 0x46F7...D4D7
+[2025-02-27T07:01:40.792Z] ✅ Success! Address: 0x46F7...D4D7
+[2025-02-27T07:01:40.792Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x31e68d1c8f57dad72c6527176117f708f4f737b88d2ecf624363e694720ba74a
+[2025-02-27T07:01:40.792Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:02:40.849Z] 🚀 Requesting faucet for address: 0x9265...A554
+[2025-02-27T07:02:41.166Z] ⚠️ Unexpected Response for 0x9265...A554: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:02:41.166Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:03:41.223Z] 🚀 Requesting faucet for address: 0xdBd5...1cb4
+[2025-02-27T07:03:41.541Z] ⚠️ Unexpected Response for 0xdBd5...1cb4: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:03:41.541Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:04:41.554Z] 🚀 Requesting faucet for address: 0x4a64...af28
+[2025-02-27T07:04:41.864Z] ⚠️ Unexpected Response for 0x4a64...af28: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:04:41.864Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:05:41.921Z] 🚀 Requesting faucet for address: 0x844b...440d
+[2025-02-27T07:05:42.238Z] ✅ Success! Address: 0x844b...440d
+[2025-02-27T07:05:42.239Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1796e6772dc282c25e4a91fd4d14b3dd9d97c7f0b5b19250d2612f01ada0b7ce
+[2025-02-27T07:05:42.239Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:06:42.258Z] 🚀 Requesting faucet for address: 0x18DD...7F1F
+[2025-02-27T07:06:42.757Z] ✅ Success! Address: 0x18DD...7F1F
+[2025-02-27T07:06:42.757Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5c1d67b8c934d11dbeaea583cd1fb584969cbfa0dc4fc7d0e8bb9356a9585d45
+[2025-02-27T07:06:42.757Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:07:42.761Z] 🚀 Requesting faucet for address: 0x7294...1131
+[2025-02-27T07:07:43.076Z] ⚠️ Unexpected Response for 0x7294...1131: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:07:43.076Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:08:43.130Z] 🚀 Requesting faucet for address: 0xe3d5...db6f
+[2025-02-27T07:08:43.442Z] ✅ Success! Address: 0xe3d5...db6f
+[2025-02-27T07:08:43.442Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe4579223aae1c82ac7c010e30eaf22200b15e58b29d9048dac4d197c147bca2e
+[2025-02-27T07:08:43.442Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:09:43.499Z] 🚀 Requesting faucet for address: 0x7DDA...A056
+[2025-02-27T07:09:43.817Z] ✅ Success! Address: 0x7DDA...A056
+[2025-02-27T07:09:43.817Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x79fe0bd8521efbe25cb34d4f2a7e19efeb4bdf24230e04c02a0a81089d432e2b
+[2025-02-27T07:09:43.817Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:10:43.842Z] 🚀 Requesting faucet for address: 0x0917...B93e
+[2025-02-27T07:10:44.161Z] ⚠️ Unexpected Response for 0x0917...B93e: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:10:44.161Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:11:44.193Z] 🚀 Requesting faucet for address: 0xbF21...8350
+[2025-02-27T07:11:44.512Z] ✅ Success! Address: 0xbF21...8350
+[2025-02-27T07:11:44.512Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8fa08a66bee345bc793db01375a8aa887f0c3f0a415fd410694cc3a01841b3f2
+[2025-02-27T07:11:44.512Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:12:44.555Z] 🚀 Requesting faucet for address: 0xB3Db...C0AD
+[2025-02-27T07:12:44.872Z] ✅ Success! Address: 0xB3Db...C0AD
+[2025-02-27T07:12:44.872Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc90b268ed95382469db1b6af8aff5575baac1e81511d8d31c3c0852e73599621
+[2025-02-27T07:12:44.872Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:13:44.919Z] 🚀 Requesting faucet for address: 0x0345...a14D
+[2025-02-27T07:13:45.226Z] ⚠️ Unexpected Response for 0x0345...a14D: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:13:45.226Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:14:45.258Z] 🚀 Requesting faucet for address: 0x3A64...a6fc
+[2025-02-27T07:14:45.567Z] ✅ Success! Address: 0x3A64...a6fc
+[2025-02-27T07:14:45.567Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0252f89541d75a8d2b553c3ada631438db5325e2ea188a2b364f921bcb22129b
+[2025-02-27T07:14:45.567Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:15:45.625Z] 🚀 Requesting faucet for address: 0xf461...4c0d
+[2025-02-27T07:15:45.935Z] ✅ Success! Address: 0xf461...4c0d
+[2025-02-27T07:15:45.935Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0a52eb8acfc9a8f2b0eb2d41ac72eb74c88489299449d0db047a43d5f2e64bce
+[2025-02-27T07:15:45.935Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:16:45.983Z] 🚀 Requesting faucet for address: 0xd57D...275E
+[2025-02-27T07:16:46.383Z] ⚠️ Unexpected Response for 0xd57D...275E: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:16:46.383Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:17:46.400Z] 🚀 Requesting faucet for address: 0x93DD...549c
+[2025-02-27T07:17:46.718Z] ⚠️ Unexpected Response for 0x93DD...549c: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:17:46.718Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:18:46.775Z] 🚀 Requesting faucet for address: 0xb7b9...8eE5
+[2025-02-27T07:18:47.092Z] ⚠️ Unexpected Response for 0xb7b9...8eE5: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:18:47.092Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:19:47.147Z] 🚀 Requesting faucet for address: 0xEf58...EB45
+[2025-02-27T07:19:47.455Z] ⚠️ Unexpected Response for 0xEf58...EB45: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:19:47.455Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:20:47.480Z] 🚀 Requesting faucet for address: 0xcB9e...f723
+[2025-02-27T07:20:47.797Z] ⚠️ Unexpected Response for 0xcB9e...f723: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:20:47.797Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:21:47.854Z] 🚀 Requesting faucet for address: 0xd1A3...6774
+[2025-02-27T07:21:48.397Z] ✅ Success! Address: 0xd1A3...6774
+[2025-02-27T07:21:48.397Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x05599f0a19a3633cafcdd24ca94281c1394b97e7c5fa5887e31ac9e42756aadb
+[2025-02-27T07:21:48.398Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:22:48.403Z] 🚀 Requesting faucet for address: 0xC55b...A87e
+[2025-02-27T07:22:48.886Z] ✅ Success! Address: 0xC55b...A87e
+[2025-02-27T07:22:48.887Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xff8059f4e445e347e9ab74bd6f17b67083088a99140d19a63c0af6cf74dd8644
+[2025-02-27T07:22:48.887Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:23:48.944Z] 🚀 Requesting faucet for address: 0x1047...6814
+[2025-02-27T07:23:49.264Z] ✅ Success! Address: 0x1047...6814
+[2025-02-27T07:23:49.264Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x92c4733c6ab604dd2e98ee16176727febbe8c1bbafd435ce94f9886ed71cc29e
+[2025-02-27T07:23:49.264Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:24:49.293Z] 🚀 Requesting faucet for address: 0x0860...1985
+[2025-02-27T07:24:49.612Z] ✅ Success! Address: 0x0860...1985
+[2025-02-27T07:24:49.612Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcdbe2065903da34ce7d1069bac3734190e13eeaece1e19a2a91152fd040e002d
+[2025-02-27T07:24:49.612Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:25:49.644Z] 🚀 Requesting faucet for address: 0x3ca5...01A6
+[2025-02-27T07:25:49.951Z] ⚠️ Unexpected Response for 0x3ca5...01A6: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:25:49.952Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:26:50.009Z] 🚀 Requesting faucet for address: 0x7f39...0eCa
+[2025-02-27T07:26:50.370Z] ⚠️ Unexpected Response for 0x7f39...0eCa: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:26:50.370Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:27:50.427Z] 🚀 Requesting faucet for address: 0xF997...8bEB
+[2025-02-27T07:27:50.735Z] ⚠️ Unexpected Response for 0xF997...8bEB: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:27:50.736Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:28:50.793Z] 🚀 Requesting faucet for address: 0x2682...f4e4
+[2025-02-27T07:28:51.101Z] ⚠️ Unexpected Response for 0x2682...f4e4: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-02-27T07:28:51.101Z] ⏳ Waiting 1 minute before the next request...
+[2025-02-27T07:29:51.159Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
+[2025-02-27T07:29:51.476Z] ⚠️ Unexpected Response for 0xeD7e...ecDD: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
