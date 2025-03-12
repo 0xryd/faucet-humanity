@@ -20364,3 +20364,255 @@
 [2025-03-12T02:27:59.180Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
 [2025-03-12T02:27:59.563Z] ✅ Success! Address: 0xeD7e...ecDD
 [2025-03-12T02:27:59.563Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbe9f09b5f029ff16b21dacb8e017884abbaec62810bce2b53edd4e326dfe11e8
+[2025-03-12T06:26:54.639Z] 🚀 Requesting faucet for address: 0x0000...DE66
+[2025-03-12T06:26:55.617Z] ✅ Success! Address: 0x0000...DE66
+[2025-03-12T06:26:55.617Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcdb7df94d5ca1a8e91f7d5163db4b8862889ce58e5e7da774ffd1eda99f3bfa6
+[2025-03-12T06:26:55.617Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:27:55.658Z] 🚀 Requesting faucet for address: 0xF59C...ab26
+[2025-03-12T06:27:56.201Z] ✅ Success! Address: 0xF59C...ab26
+[2025-03-12T06:27:56.201Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4930e97949a8e840d22ea6a95136ef9daaf3ab9dea6e4d3cf974bfb075b33254
+[2025-03-12T06:27:56.201Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:28:56.216Z] 🚀 Requesting faucet for address: 0xc67b...dC33
+[2025-03-12T06:28:56.759Z] ⚠️ Unexpected Response for 0xc67b...dC33: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address"}
+[2025-03-12T06:28:56.759Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:29:56.815Z] 🚀 Requesting faucet for address: 0xB256...A874
+[2025-03-12T06:29:57.349Z] ✅ Success! Address: 0xB256...A874
+[2025-03-12T06:29:57.349Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x67b7b633a91acb628ab9ffcc69ac41966034763e1878477ca67ac5057466194b
+[2025-03-12T06:29:57.349Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:30:57.407Z] 🚀 Requesting faucet for address: 0x15A6...dADc
+[2025-03-12T06:30:57.936Z] ✅ Success! Address: 0x15A6...dADc
+[2025-03-12T06:30:57.936Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc7fb9442e9b885961f3042d9e5a58a2b2f3ae588b3be9f39295e83c13e938336
+[2025-03-12T06:30:57.936Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:31:57.993Z] 🚀 Requesting faucet for address: 0xA7C0...71a1
+[2025-03-12T06:31:58.645Z] ✅ Success! Address: 0xA7C0...71a1
+[2025-03-12T06:31:58.645Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9116ca70b3304e980de2f88214f0056ede9da16d4fb8ead8f7eceebadd64361f
+[2025-03-12T06:31:58.646Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:32:58.702Z] 🚀 Requesting faucet for address: 0xCD2c...97ae
+[2025-03-12T06:32:59.236Z] ✅ Success! Address: 0xCD2c...97ae
+[2025-03-12T06:32:59.236Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9c3ff2a832204ddc55a91cbc833bac45d4cae9d07016dcb27fbec3ac108ae3d2
+[2025-03-12T06:32:59.236Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:33:59.294Z] 🚀 Requesting faucet for address: 0x4964...da51
+[2025-03-12T06:33:59.825Z] ✅ Success! Address: 0x4964...da51
+[2025-03-12T06:33:59.825Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x827ed08004a0682d0d75dbf8980efe611c0f2b93eda5d2b616de98f2559911e4
+[2025-03-12T06:33:59.826Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:34:59.863Z] 🚀 Requesting faucet for address: 0x9090...f2A4
+[2025-03-12T06:35:00.397Z] ✅ Success! Address: 0x9090...f2A4
+[2025-03-12T06:35:00.397Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc4aad64221f1d74d6ea3cc37562ef51fb03898855eb16b8d6107e82272df0106
+[2025-03-12T06:35:00.398Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:36:00.403Z] 🚀 Requesting faucet for address: 0x19a6...b39f
+[2025-03-12T06:36:01.034Z] ✅ Success! Address: 0x19a6...b39f
+[2025-03-12T06:36:01.034Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4cc5e93a95943d4e0eeca5beec806fd230e94fbf0007692b67c3e2f6290ce0a0
+[2025-03-12T06:36:01.034Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:37:01.092Z] 🚀 Requesting faucet for address: 0xf72D...A4fb
+[2025-03-12T06:37:01.750Z] ✅ Success! Address: 0xf72D...A4fb
+[2025-03-12T06:37:01.750Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x804ec1d34a14d7879f9a3f3e446a5fdcc54bbaf7222d39d41158e627290365f8
+[2025-03-12T06:37:01.750Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:38:01.756Z] 🚀 Requesting faucet for address: 0x6423...722a
+[2025-03-12T06:38:02.306Z] ✅ Success! Address: 0x6423...722a
+[2025-03-12T06:38:02.306Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfbff82effb75daa8287f4534dae2d1156e3ecb066b943fcc4c760d68814e3028
+[2025-03-12T06:38:02.306Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:39:02.362Z] 🚀 Requesting faucet for address: 0x6889...24D6
+[2025-03-12T06:39:02.901Z] ✅ Success! Address: 0x6889...24D6
+[2025-03-12T06:39:02.901Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc0eea01e28c4c717657c60d9a5fa57febb757ec6b25518cff1caf76f9cd68859
+[2025-03-12T06:39:02.901Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:40:02.958Z] 🚀 Requesting faucet for address: 0xeCfC...24eE
+[2025-03-12T06:40:03.488Z] ✅ Success! Address: 0xeCfC...24eE
+[2025-03-12T06:40:03.488Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x11743ed9f17540d815b8e13830163db0c97a9cd003a074bfb67cb272f7cbc713
+[2025-03-12T06:40:03.488Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:41:03.508Z] 🚀 Requesting faucet for address: 0x9eA7...0948
+[2025-03-12T06:41:05.191Z] ✅ Success! Address: 0x9eA7...0948
+[2025-03-12T06:41:05.191Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdb149c9162336f1c56c93346cafb07afc0d5e29e778e7eea78165f2bb4451cc8
+[2025-03-12T06:41:05.191Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:42:05.243Z] 🚀 Requesting faucet for address: 0xB31C...d3B1
+[2025-03-12T06:42:08.155Z] ✅ Success! Address: 0xB31C...d3B1
+[2025-03-12T06:42:08.155Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdce02bc950e3479b6093af01a2074d80c26f7e3f0fa5c31fba5483edcd3565cc
+[2025-03-12T06:42:08.155Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:43:08.213Z] 🚀 Requesting faucet for address: 0x21e6...7F2c
+[2025-03-12T06:43:08.740Z] ✅ Success! Address: 0x21e6...7F2c
+[2025-03-12T06:43:08.740Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0fa77d2a3bb430a1198dcda3d4bea0145183f62bf2f6fd7d9df02d84b729c90e
+[2025-03-12T06:43:08.740Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:44:08.796Z] 🚀 Requesting faucet for address: 0x4e50...A51F
+[2025-03-12T06:44:09.335Z] ✅ Success! Address: 0x4e50...A51F
+[2025-03-12T06:44:09.335Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x35d8a29d7e6bb2f705221d464230cbd680d6c69c454ffbe542d1f3796d221612
+[2025-03-12T06:44:09.335Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:45:09.392Z] 🚀 Requesting faucet for address: 0xd70C...99E2
+[2025-03-12T06:45:09.920Z] ✅ Success! Address: 0xd70C...99E2
+[2025-03-12T06:45:09.920Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfce153c93101fde5f2b811104986a60233533bf2c84614267a399dd60eb9da20
+[2025-03-12T06:45:09.920Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:46:09.977Z] 🚀 Requesting faucet for address: 0x7606...3b1C
+[2025-03-12T06:46:10.504Z] ✅ Success! Address: 0x7606...3b1C
+[2025-03-12T06:46:10.504Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd64e3a0331f77ac23bd4f457c578aa4bc3c3371448e2dc5175c009979d8516b3
+[2025-03-12T06:46:10.504Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:47:10.512Z] 🚀 Requesting faucet for address: 0x2277...a323
+[2025-03-12T06:47:11.355Z] ✅ Success! Address: 0x2277...a323
+[2025-03-12T06:47:11.356Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x617272c5bb6f2b27baa2215dc02d7d334da847b9dfe02f837b7bef1fbf51e0a0
+[2025-03-12T06:47:11.356Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:48:11.413Z] 🚀 Requesting faucet for address: 0x36Bb...9B5C
+[2025-03-12T06:48:11.948Z] ⚠️ Unexpected Response for 0x36Bb...9B5C: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address"}
+[2025-03-12T06:48:11.948Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:49:11.983Z] 🚀 Requesting faucet for address: 0x1596...E5db
+[2025-03-12T06:49:12.510Z] ✅ Success! Address: 0x1596...E5db
+[2025-03-12T06:49:12.510Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x25ffb45d27b4c8d3727c3edcca380ce994acedf369382a21d2f213e811a67c45
+[2025-03-12T06:49:12.510Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:50:12.567Z] 🚀 Requesting faucet for address: 0x7f9A...Ae67
+[2025-03-12T06:50:13.100Z] ✅ Success! Address: 0x7f9A...Ae67
+[2025-03-12T06:50:13.100Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x405372285eddc7fb684eaf328571dafc236e2702edf2f67b0f16f762fee2ce8b
+[2025-03-12T06:50:13.100Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:51:13.156Z] 🚀 Requesting faucet for address: 0x1a73...3A1B
+[2025-03-12T06:51:13.690Z] ✅ Success! Address: 0x1a73...3A1B
+[2025-03-12T06:51:13.690Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbabbeb98e8c7a729b74d9d47803c9303fc182768bf86aac24edb0f9d808bbcba
+[2025-03-12T06:51:13.690Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:52:13.746Z] 🚀 Requesting faucet for address: 0x5e63...405e
+[2025-03-12T06:52:14.401Z] ✅ Success! Address: 0x5e63...405e
+[2025-03-12T06:52:14.401Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8150277c33f78209b151b3363ce88affb8bec8398bab91c4cb3c65250caf55a7
+[2025-03-12T06:52:14.401Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:53:14.456Z] 🚀 Requesting faucet for address: 0x1Afe...13bF
+[2025-03-12T06:53:14.983Z] ✅ Success! Address: 0x1Afe...13bF
+[2025-03-12T06:53:14.983Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x771d0cb914b2d5f99335a4eda6ec34bd781869272a7011cc3ced9faf1b5263a9
+[2025-03-12T06:53:14.983Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:54:15.040Z] 🚀 Requesting faucet for address: 0x7cC4...Ac27
+[2025-03-12T06:54:15.567Z] ✅ Success! Address: 0x7cC4...Ac27
+[2025-03-12T06:54:15.567Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd65b7796fd3b2f06a8c8af2597e9ffc1dcac1a24644982d5a51ac7d9a9e0da77
+[2025-03-12T06:54:15.567Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:55:15.624Z] 🚀 Requesting faucet for address: 0x0147...fe2f
+[2025-03-12T06:55:16.149Z] ✅ Success! Address: 0x0147...fe2f
+[2025-03-12T06:55:16.149Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5170bb793686807a4aedeb79e4d5f1e8a783979113b43892778fad93305193f3
+[2025-03-12T06:55:16.149Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:56:16.205Z] 🚀 Requesting faucet for address: 0x5Fd5...5d01
+[2025-03-12T06:56:16.723Z] ✅ Success! Address: 0x5Fd5...5d01
+[2025-03-12T06:56:16.723Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xeab53d61c006bb29494e1bbe55821902c9c556940e52acd314d896f31da48df8
+[2025-03-12T06:56:16.723Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:57:16.764Z] 🚀 Requesting faucet for address: 0x0001...B22E
+[2025-03-12T06:57:17.426Z] ✅ Success! Address: 0x0001...B22E
+[2025-03-12T06:57:17.426Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x752abc0e93b413aeebcb14087791d81c2663ad66199cd9f42e47b62d6e7943ee
+[2025-03-12T06:57:17.426Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:58:17.483Z] 🚀 Requesting faucet for address: 0xe86C...A89D
+[2025-03-12T06:58:18.012Z] ✅ Success! Address: 0xe86C...A89D
+[2025-03-12T06:58:18.012Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5777d9d0fca331a84d1925d2dd46badacb7b06ea2bca6ce095232e8536d5f5c3
+[2025-03-12T06:58:18.012Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T06:59:18.040Z] 🚀 Requesting faucet for address: 0x7480...41C3
+[2025-03-12T06:59:18.566Z] ✅ Success! Address: 0x7480...41C3
+[2025-03-12T06:59:18.566Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe0604f833995390d90d9abf1d0cc859b07c0ba0cbae9445f1d4b342a1bf367b1
+[2025-03-12T06:59:18.566Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:00:18.623Z] 🚀 Requesting faucet for address: 0x7036...cd73
+[2025-03-12T07:00:19.161Z] ✅ Success! Address: 0x7036...cd73
+[2025-03-12T07:00:19.161Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xff595a80f62f6bc0f455882035eb941b79915772b8dd8a1cec5a4da2937491bc
+[2025-03-12T07:00:19.161Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:01:19.188Z] 🚀 Requesting faucet for address: 0x2ccE...7922
+[2025-03-12T07:01:19.730Z] ✅ Success! Address: 0x2ccE...7922
+[2025-03-12T07:01:19.730Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1ef3b9b18b298b8d3b923600f5a01b7b453b3c229fa4722ac61ff67e85cbb808
+[2025-03-12T07:01:19.730Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:02:19.779Z] 🚀 Requesting faucet for address: 0x46F7...D4D7
+[2025-03-12T07:02:20.312Z] ✅ Success! Address: 0x46F7...D4D7
+[2025-03-12T07:02:20.312Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x51a00fd97d46b610837f466c6b39b12122a819c92e4e0f9f4ec7fe3c62859cab
+[2025-03-12T07:02:20.312Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:03:20.369Z] 🚀 Requesting faucet for address: 0x9265...A554
+[2025-03-12T07:03:20.896Z] ✅ Success! Address: 0x9265...A554
+[2025-03-12T07:03:20.896Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x765f9eb7865c30ef617e20dbd199882b56906441a8e9df714ab590fb55cc6abb
+[2025-03-12T07:03:20.897Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:04:20.953Z] 🚀 Requesting faucet for address: 0xdBd5...1cb4
+[2025-03-12T07:04:21.487Z] ✅ Success! Address: 0xdBd5...1cb4
+[2025-03-12T07:04:21.487Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x867dcff29846d8eeae3c34147953c97fe88e5698c8406b1c65ba590622a27032
+[2025-03-12T07:04:21.487Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:05:21.512Z] 🚀 Requesting faucet for address: 0x4a64...af28
+[2025-03-12T07:05:22.044Z] ✅ Success! Address: 0x4a64...af28
+[2025-03-12T07:05:22.044Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc052eb5ff76a54d2188fe39f596db94c7069c0eee9a2fb65e235b0a76d3557f2
+[2025-03-12T07:05:22.044Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:06:22.101Z] 🚀 Requesting faucet for address: 0x844b...440d
+[2025-03-12T07:06:22.628Z] ✅ Success! Address: 0x844b...440d
+[2025-03-12T07:06:22.628Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x546982cfdb34fa9939d1e38b77ea1ecf3fd1f074ea573b1d044ba152180c1aed
+[2025-03-12T07:06:22.628Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:07:22.636Z] 🚀 Requesting faucet for address: 0x18DD...7F1F
+[2025-03-12T07:07:23.294Z] ✅ Success! Address: 0x18DD...7F1F
+[2025-03-12T07:07:23.294Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x22b0bf4742cbfa0b15618f3a014456e127ddf968d12bab239da8eb552dea3850
+[2025-03-12T07:07:23.294Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:08:23.324Z] 🚀 Requesting faucet for address: 0x7294...1131
+[2025-03-12T07:08:23.850Z] ✅ Success! Address: 0x7294...1131
+[2025-03-12T07:08:23.850Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe84db4def3567b60b3be3f79b0e81cb11dcc2eb9bb8e8cb1030d579b13de6e92
+[2025-03-12T07:08:23.851Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:09:23.872Z] 🚀 Requesting faucet for address: 0xe3d5...db6f
+[2025-03-12T07:09:24.399Z] ✅ Success! Address: 0xe3d5...db6f
+[2025-03-12T07:09:24.399Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa77d98b48e18dd3502db40eba1cdae019718d60dd7b839e367e71a1365f73c33
+[2025-03-12T07:09:24.399Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:10:24.444Z] 🚀 Requesting faucet for address: 0x7DDA...A056
+[2025-03-12T07:10:24.970Z] ✅ Success! Address: 0x7DDA...A056
+[2025-03-12T07:10:24.970Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x55dd64176d4604197fa0a23a047294e73b7b4e1ee39be835898d441bfe8920b6
+[2025-03-12T07:10:24.971Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:11:24.977Z] 🚀 Requesting faucet for address: 0x0917...B93e
+[2025-03-12T07:11:25.505Z] ✅ Success! Address: 0x0917...B93e
+[2025-03-12T07:11:25.505Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7cb30bb80d84cc51496fc898dc6979b9b0eee62192126d3c331c78009f93d495
+[2025-03-12T07:11:25.505Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:12:25.563Z] 🚀 Requesting faucet for address: 0xbF21...8350
+[2025-03-12T07:12:26.202Z] ✅ Success! Address: 0xbF21...8350
+[2025-03-12T07:12:26.202Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x91165c94c0896ab3245671286ca886260eeb13f8f7ad0555a86e072048a5f0e5
+[2025-03-12T07:12:26.202Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:13:26.260Z] 🚀 Requesting faucet for address: 0xB3Db...C0AD
+[2025-03-12T07:13:26.793Z] ✅ Success! Address: 0xB3Db...C0AD
+[2025-03-12T07:13:26.793Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe1c84d4c2d7848b742f8471eb78a7ad362930fbcae847a70fbb39a885318c4bc
+[2025-03-12T07:13:26.793Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:14:26.814Z] 🚀 Requesting faucet for address: 0x0345...a14D
+[2025-03-12T07:14:27.342Z] ✅ Success! Address: 0x0345...a14D
+[2025-03-12T07:14:27.342Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x87c3ee9a9ab5b4688a4694fc9daaae2da50fe2f03b5bdde9aece68c5eabcab0b
+[2025-03-12T07:14:27.342Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:15:27.399Z] 🚀 Requesting faucet for address: 0x3A64...a6fc
+[2025-03-12T07:15:27.934Z] ⚠️ Unexpected Response for 0x3A64...a6fc: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address"}
+[2025-03-12T07:15:27.934Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:16:27.950Z] 🚀 Requesting faucet for address: 0xf461...4c0d
+[2025-03-12T07:16:28.484Z] ✅ Success! Address: 0xf461...4c0d
+[2025-03-12T07:16:28.484Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc9be76fab8035fa1881390be8687e7b1eba950fb5cafc068f5784fd5a682f38c
+[2025-03-12T07:16:28.484Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:17:28.540Z] 🚀 Requesting faucet for address: 0xd57D...275E
+[2025-03-12T07:17:29.074Z] ✅ Success! Address: 0xd57D...275E
+[2025-03-12T07:17:29.074Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x655ddca049fb9e88b75fdc0019a45370da22d61e784b17cfa0885ad60f6ba2c6
+[2025-03-12T07:17:29.074Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:18:29.101Z] 🚀 Requesting faucet for address: 0x93DD...549c
+[2025-03-12T07:18:31.650Z] ✅ Success! Address: 0x93DD...549c
+[2025-03-12T07:18:31.651Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe29bc1fb41537cd1e5a8ddd93f074feeb478643467d4a42bee2f335534277e89
+[2025-03-12T07:18:31.651Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:19:31.667Z] 🚀 Requesting faucet for address: 0xb7b9...8eE5
+[2025-03-12T07:19:32.200Z] ✅ Success! Address: 0xb7b9...8eE5
+[2025-03-12T07:19:32.200Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x62562e80fe1c1246a887bf0db37ae3bcd02795d1e5b2f0de8c101c65522eb283
+[2025-03-12T07:19:32.200Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:20:32.257Z] 🚀 Requesting faucet for address: 0xEf58...EB45
+[2025-03-12T07:20:32.790Z] ✅ Success! Address: 0xEf58...EB45
+[2025-03-12T07:20:32.790Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2ea45b756b8e9c8541dd5dc19b0fe7d4590bd3ce671a62846d71269a29489b4e
+[2025-03-12T07:20:32.790Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:21:32.824Z] 🚀 Requesting faucet for address: 0xcB9e...f723
+[2025-03-12T07:21:33.357Z] ✅ Success! Address: 0xcB9e...f723
+[2025-03-12T07:21:33.357Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3f1af81799b6a09996ea7917b7ae54d1e175af4b4b974160130d40db8b5b61ba
+[2025-03-12T07:21:33.357Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:22:33.413Z] 🚀 Requesting faucet for address: 0xd1A3...6774
+[2025-03-12T07:22:34.189Z] ✅ Success! Address: 0xd1A3...6774
+[2025-03-12T07:22:34.190Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7b88a663b43bbfc877872cee7bb22188046088ce626c6d9caf465305e7ebc7b8
+[2025-03-12T07:22:34.190Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:23:34.239Z] 🚀 Requesting faucet for address: 0xC55b...A87e
+[2025-03-12T07:23:34.766Z] ✅ Success! Address: 0xC55b...A87e
+[2025-03-12T07:23:34.766Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x323c774126c36ec3c2fc6094d4b1d2e778f891c83bef7b0a0f074293a1eee3d5
+[2025-03-12T07:23:34.766Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:24:34.823Z] 🚀 Requesting faucet for address: 0x1047...6814
+[2025-03-12T07:24:35.355Z] ✅ Success! Address: 0x1047...6814
+[2025-03-12T07:24:35.356Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0160c4dfc11747c239ebe7ebf1c7323c0c2cd506ecf60ce178a7d05d518a7f10
+[2025-03-12T07:24:35.356Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:25:35.412Z] 🚀 Requesting faucet for address: 0x0860...1985
+[2025-03-12T07:25:35.971Z] ✅ Success! Address: 0x0860...1985
+[2025-03-12T07:25:35.971Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0a5a33a29a688294db2b9c952fd4ea8a6a1c32fd8ef176a537eac8fbe106a923
+[2025-03-12T07:25:35.971Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:26:36.012Z] 🚀 Requesting faucet for address: 0x3ca5...01A6
+[2025-03-12T07:26:36.544Z] ✅ Success! Address: 0x3ca5...01A6
+[2025-03-12T07:26:36.544Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x6c536a09e0fca1023da31d9f9f5d649855de27fb0a86506d2882cf108740d458
+[2025-03-12T07:26:36.544Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:27:36.578Z] 🚀 Requesting faucet for address: 0x7f39...0eCa
+[2025-03-12T07:27:37.136Z] ✅ Success! Address: 0x7f39...0eCa
+[2025-03-12T07:27:37.136Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc77059154fec4ca5bc3000a8125fb9820ea27debc015e38f951391e7964bfa18
+[2025-03-12T07:27:37.136Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:28:37.156Z] 🚀 Requesting faucet for address: 0xF997...8bEB
+[2025-03-12T07:28:37.685Z] ✅ Success! Address: 0xF997...8bEB
+[2025-03-12T07:28:37.685Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc8d6d5bb337eb5f11b23c7b229db57e66eb5aa2a97c829b89aacb358f2579551
+[2025-03-12T07:28:37.685Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:29:37.742Z] 🚀 Requesting faucet for address: 0x2682...f4e4
+[2025-03-12T07:29:38.275Z] ✅ Success! Address: 0x2682...f4e4
+[2025-03-12T07:29:38.275Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbcdf86b6559cc761862c7be8b201f456e58b83c4f0efa923072e160f02404d67
+[2025-03-12T07:29:38.275Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T07:30:38.331Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
+[2025-03-12T07:30:38.859Z] ✅ Success! Address: 0xeD7e...ecDD
+[2025-03-12T07:30:38.859Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc318f77022ded4e9fe1a3d987b76cbe36f607543605ced8090d7a8f0028f5b78
