@@ -20860,3 +20860,211 @@
 [2025-03-12T13:40:42.374Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
 [2025-03-12T13:40:42.732Z] ✅ Success! Address: 0xeD7e...ecDD
 [2025-03-12T13:40:42.732Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0632a3e2164241ff99402e2b41901b40a75c4d2d0800990040635505c1dcda29
+[2025-03-12T18:26:39.188Z] 🚀 Requesting faucet for address: 0x0000...DE66
+[2025-03-12T18:26:44.895Z] ⚠️ Unexpected Response for 0x0000...DE66: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:26:44.896Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:27:44.922Z] 🚀 Requesting faucet for address: 0xF59C...ab26
+[2025-03-12T18:27:50.450Z] ⚠️ Unexpected Response for 0xF59C...ab26: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:27:50.450Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:28:50.483Z] 🚀 Requesting faucet for address: 0xc67b...dC33
+[2025-03-12T18:28:51.011Z] ⚠️ Unexpected Response for 0xc67b...dC33: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:28:51.011Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:29:51.038Z] 🚀 Requesting faucet for address: 0xB256...A874
+[2025-03-12T18:29:56.566Z] ⚠️ Unexpected Response for 0xB256...A874: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:29:56.567Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:30:56.624Z] 🚀 Requesting faucet for address: 0x15A6...dADc
+[2025-03-12T18:31:02.152Z] ⚠️ Unexpected Response for 0x15A6...dADc: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:31:02.153Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:32:02.210Z] 🚀 Requesting faucet for address: 0xA7C0...71a1
+[2025-03-12T18:32:07.859Z] ⚠️ Unexpected Response for 0xA7C0...71a1: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:32:07.859Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:33:07.908Z] 🚀 Requesting faucet for address: 0xCD2c...97ae
+[2025-03-12T18:33:13.437Z] ⚠️ Unexpected Response for 0xCD2c...97ae: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:33:13.437Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:34:13.495Z] 🚀 Requesting faucet for address: 0x4964...da51
+[2025-03-12T18:34:14.022Z] ⚠️ Unexpected Response for 0x4964...da51: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:34:14.022Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:35:14.079Z] 🚀 Requesting faucet for address: 0x9090...f2A4
+[2025-03-12T18:35:14.609Z] ⚠️ Unexpected Response for 0x9090...f2A4: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:35:14.609Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:36:14.667Z] 🚀 Requesting faucet for address: 0x19a6...b39f
+[2025-03-12T18:36:20.196Z] ⚠️ Unexpected Response for 0x19a6...b39f: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:36:20.196Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:37:20.253Z] 🚀 Requesting faucet for address: 0xf72D...A4fb
+[2025-03-12T18:37:23.236Z] ✅ Success! Address: 0xf72D...A4fb
+[2025-03-12T18:37:23.237Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x93b54c4b981a718d96b1857f984de99fd612f91ccbaa6a5d3b707686d06d2c05
+[2025-03-12T18:37:23.237Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:38:23.293Z] 🚀 Requesting faucet for address: 0x6423...722a
+[2025-03-12T18:38:23.896Z] ✅ Success! Address: 0x6423...722a
+[2025-03-12T18:38:23.896Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4084653484f23f93cc92aae53e9f14d474c1842f99556d4dae823b445fb4a565
+[2025-03-12T18:38:23.896Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:39:23.908Z] 🚀 Requesting faucet for address: 0x6889...24D6
+[2025-03-12T18:39:27.534Z] ✅ Success! Address: 0x6889...24D6
+[2025-03-12T18:39:27.534Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc7d147ab1b9b464cb5c6ba9f1892b85e08bb84cfc61e518d54eae4cc7c737dc5
+[2025-03-12T18:39:27.534Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:40:27.558Z] 🚀 Requesting faucet for address: 0xeCfC...24eE
+[2025-03-12T18:40:29.485Z] ✅ Success! Address: 0xeCfC...24eE
+[2025-03-12T18:40:29.485Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x6b035b629b2ab0903c8be32c31b487d1357c60bfa4d7f05fb43e6007ada09b38
+[2025-03-12T18:40:29.485Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:41:29.501Z] 🚀 Requesting faucet for address: 0x9eA7...0948
+[2025-03-12T18:41:30.029Z] ⚠️ Unexpected Response for 0x9eA7...0948: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T18:41:30.029Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:42:30.031Z] 🚀 Requesting faucet for address: 0xB31C...d3B1
+[2025-03-12T18:42:33.335Z] ⚠️ Unexpected Response for 0xB31C...d3B1: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T18:42:33.335Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:43:33.373Z] 🚀 Requesting faucet for address: 0x21e6...7F2c
+[2025-03-12T18:43:38.901Z] ⚠️ Unexpected Response for 0x21e6...7F2c: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:43:38.901Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:44:38.919Z] 🚀 Requesting faucet for address: 0x4e50...A51F
+[2025-03-12T18:44:44.447Z] ⚠️ Unexpected Response for 0x4e50...A51F: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:44:44.447Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:45:44.465Z] 🚀 Requesting faucet for address: 0xd70C...99E2
+[2025-03-12T18:45:49.992Z] ⚠️ Unexpected Response for 0xd70C...99E2: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:45:49.992Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:46:50.024Z] 🚀 Requesting faucet for address: 0x7606...3b1C
+[2025-03-12T18:46:55.552Z] ⚠️ Unexpected Response for 0x7606...3b1C: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:46:55.553Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:47:55.592Z] 🚀 Requesting faucet for address: 0x2277...a323
+[2025-03-12T18:48:01.136Z] ⚠️ Unexpected Response for 0x2277...a323: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:48:01.137Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:49:01.138Z] 🚀 Requesting faucet for address: 0x36Bb...9B5C
+[2025-03-12T18:49:06.673Z] ⚠️ Unexpected Response for 0x36Bb...9B5C: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:49:06.674Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:50:06.698Z] 🚀 Requesting faucet for address: 0x1596...E5db
+[2025-03-12T18:50:07.225Z] ⚠️ Unexpected Response for 0x1596...E5db: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:50:07.225Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:51:07.234Z] 🚀 Requesting faucet for address: 0x7f9A...Ae67
+[2025-03-12T18:51:07.761Z] ⚠️ Unexpected Response for 0x7f9A...Ae67: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:51:07.761Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:52:07.817Z] 🚀 Requesting faucet for address: 0x1a73...3A1B
+[2025-03-12T18:52:08.345Z] ⚠️ Unexpected Response for 0x1a73...3A1B: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T18:52:08.345Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:53:08.370Z] 🚀 Requesting faucet for address: 0x5e63...405e
+[2025-03-12T18:53:14.024Z] ⚠️ Unexpected Response for 0x5e63...405e: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:53:14.024Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:54:14.038Z] 🚀 Requesting faucet for address: 0x1Afe...13bF
+[2025-03-12T18:54:19.567Z] ⚠️ Unexpected Response for 0x1Afe...13bF: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:54:19.567Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:55:19.619Z] 🚀 Requesting faucet for address: 0x7cC4...Ac27
+[2025-03-12T18:55:25.145Z] ⚠️ Unexpected Response for 0x7cC4...Ac27: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:55:25.145Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:56:25.188Z] 🚀 Requesting faucet for address: 0x0147...fe2f
+[2025-03-12T18:56:30.716Z] ⚠️ Unexpected Response for 0x0147...fe2f: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:56:30.716Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:57:30.774Z] 🚀 Requesting faucet for address: 0x5Fd5...5d01
+[2025-03-12T18:57:36.302Z] ⚠️ Unexpected Response for 0x5Fd5...5d01: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T18:57:36.302Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:58:36.359Z] 🚀 Requesting faucet for address: 0x0001...B22E
+[2025-03-12T18:58:37.028Z] ⚠️ Unexpected Response for 0x0001...B22E: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-12T18:58:37.029Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T18:59:37.060Z] 🚀 Requesting faucet for address: 0xe86C...A89D
+[2025-03-12T18:59:37.650Z] ✅ Success! Address: 0xe86C...A89D
+[2025-03-12T18:59:37.650Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcb9656ffbad1d3846b9b9a111545bb2a0c0ac9cf1873a43c584ada57f443a044
+[2025-03-12T18:59:37.651Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:00:37.706Z] 🚀 Requesting faucet for address: 0x7480...41C3
+[2025-03-12T19:00:41.853Z] ✅ Success! Address: 0x7480...41C3
+[2025-03-12T19:00:41.853Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x984495c15616a69196454cf425d6cea22382ba969bbeb9592dc68c66b2505554
+[2025-03-12T19:00:41.853Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:01:41.910Z] 🚀 Requesting faucet for address: 0x7036...cd73
+[2025-03-12T19:01:42.436Z] ⚠️ Unexpected Response for 0x7036...cd73: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:01:42.437Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:02:42.460Z] 🚀 Requesting faucet for address: 0x2ccE...7922
+[2025-03-12T19:02:42.987Z] ⚠️ Unexpected Response for 0x2ccE...7922: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:02:42.987Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:03:43.045Z] 🚀 Requesting faucet for address: 0x46F7...D4D7
+[2025-03-12T19:03:43.690Z] ⚠️ Unexpected Response for 0x46F7...D4D7: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:03:43.691Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:04:43.747Z] 🚀 Requesting faucet for address: 0x9265...A554
+[2025-03-12T19:04:46.150Z] ✅ Success! Address: 0x9265...A554
+[2025-03-12T19:04:46.150Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x257219a49992ad6f291ee8679e9b63c9a1861d6838428f29221f8797321338be
+[2025-03-12T19:04:46.151Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:05:46.175Z] 🚀 Requesting faucet for address: 0xdBd5...1cb4
+[2025-03-12T19:05:48.262Z] ⚠️ Unexpected Response for 0xdBd5...1cb4: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:05:48.262Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:06:48.317Z] 🚀 Requesting faucet for address: 0x4a64...af28
+[2025-03-12T19:06:53.846Z] ⚠️ Unexpected Response for 0x4a64...af28: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:06:53.846Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:07:53.904Z] 🚀 Requesting faucet for address: 0x844b...440d
+[2025-03-12T19:07:57.764Z] ✅ Success! Address: 0x844b...440d
+[2025-03-12T19:07:57.764Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfdc3ce682fc0a3b07679032517b506a4ff496ae573a85afc3b9cf727ca70e174
+[2025-03-12T19:07:57.764Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:08:57.821Z] 🚀 Requesting faucet for address: 0x18DD...7F1F
+[2025-03-12T19:09:03.461Z] ⚠️ Unexpected Response for 0x18DD...7F1F: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:09:03.461Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:10:03.518Z] 🚀 Requesting faucet for address: 0x7294...1131
+[2025-03-12T19:10:04.048Z] ⚠️ Unexpected Response for 0x7294...1131: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:10:04.048Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:11:04.085Z] 🚀 Requesting faucet for address: 0xe3d5...db6f
+[2025-03-12T19:11:07.164Z] ⚠️ Unexpected Response for 0xe3d5...db6f: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:11:07.164Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:12:07.221Z] 🚀 Requesting faucet for address: 0x7DDA...A056
+[2025-03-12T19:12:09.983Z] ✅ Success! Address: 0x7DDA...A056
+[2025-03-12T19:12:09.983Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3c8a86af896c632b59429338f4dc0c1e950b5474e89ffea2d259be18515e1edd
+[2025-03-12T19:12:09.983Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:13:10.040Z] 🚀 Requesting faucet for address: 0x0917...B93e
+[2025-03-12T19:13:13.673Z] ✅ Success! Address: 0x0917...B93e
+[2025-03-12T19:13:13.673Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7b1d0b3953b5e45bb46157903d67f60526d99d9888c9559f168be70394ebb1a9
+[2025-03-12T19:13:13.673Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:14:13.687Z] 🚀 Requesting faucet for address: 0xbF21...8350
+[2025-03-12T19:14:16.139Z] ⚠️ Unexpected Response for 0xbF21...8350: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:14:16.139Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:15:16.195Z] 🚀 Requesting faucet for address: 0xB3Db...C0AD
+[2025-03-12T19:15:16.727Z] ⚠️ Unexpected Response for 0xB3Db...C0AD: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:15:16.728Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:16:16.784Z] 🚀 Requesting faucet for address: 0x0345...a14D
+[2025-03-12T19:16:17.720Z] ⚠️ Unexpected Response for 0x0345...a14D: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:16:17.720Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:17:17.724Z] 🚀 Requesting faucet for address: 0x3A64...a6fc
+[2025-03-12T19:17:20.508Z] ✅ Success! Address: 0x3A64...a6fc
+[2025-03-12T19:17:20.509Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfc53f97df83a8313a25882a2630ec1ede575086a036acad3444a8fab0f0290e4
+[2025-03-12T19:17:20.509Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:18:20.565Z] 🚀 Requesting faucet for address: 0xf461...4c0d
+[2025-03-12T19:18:22.618Z] ⚠️ Unexpected Response for 0xf461...4c0d: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:18:22.618Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:19:22.626Z] 🚀 Requesting faucet for address: 0xd57D...275E
+[2025-03-12T19:19:23.994Z] ✅ Success! Address: 0xd57D...275E
+[2025-03-12T19:19:23.994Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdb7a525f22f4d0d2ea4cfe5c8c46fcbdfae1909bf578397924b4b1fe64a01fed
+[2025-03-12T19:19:23.994Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:20:24.050Z] 🚀 Requesting faucet for address: 0x93DD...549c
+[2025-03-12T19:20:29.576Z] ⚠️ Unexpected Response for 0x93DD...549c: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:20:29.576Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:21:29.613Z] 🚀 Requesting faucet for address: 0xb7b9...8eE5
+[2025-03-12T19:21:30.159Z] ⚠️ Unexpected Response for 0xb7b9...8eE5: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:21:30.159Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:22:30.204Z] 🚀 Requesting faucet for address: 0xEf58...EB45
+[2025-03-12T19:22:30.812Z] ⚠️ Unexpected Response for 0xEf58...EB45: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:22:30.812Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:23:30.830Z] 🚀 Requesting faucet for address: 0xcB9e...f723
+[2025-03-12T19:23:35.301Z] ✅ Success! Address: 0xcB9e...f723
+[2025-03-12T19:23:35.301Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x336c2a6a33f081789277a933d7dde8bf795b2690f704a1745f1bd73ea3e6168e
+[2025-03-12T19:23:35.301Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:24:35.332Z] 🚀 Requesting faucet for address: 0xd1A3...6774
+[2025-03-12T19:24:36.156Z] ✅ Success! Address: 0xd1A3...6774
+[2025-03-12T19:24:36.156Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x11cab77996220449822c13acf666da833d3ba8fba091e04b2530b05da3ca0be2
+[2025-03-12T19:24:36.156Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:25:36.182Z] 🚀 Requesting faucet for address: 0xC55b...A87e
+[2025-03-12T19:25:36.776Z] ✅ Success! Address: 0xC55b...A87e
+[2025-03-12T19:25:36.776Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x44bde6e256180bb8b219f0a293f7e0705d5bcd7f65b9d0fa82e42b860e9a0553
+[2025-03-12T19:25:36.776Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:26:36.829Z] 🚀 Requesting faucet for address: 0x1047...6814
+[2025-03-12T19:26:42.356Z] ⚠️ Unexpected Response for 0x1047...6814: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:26:42.356Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:27:42.412Z] 🚀 Requesting faucet for address: 0x0860...1985
+[2025-03-12T19:27:47.939Z] ⚠️ Unexpected Response for 0x0860...1985: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:27:47.939Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:28:47.973Z] 🚀 Requesting faucet for address: 0x3ca5...01A6
+[2025-03-12T19:28:48.584Z] ✅ Success! Address: 0x3ca5...01A6
+[2025-03-12T19:28:48.584Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5b044504a382236719f519f54f1976ba5a5322f54f802877b2dd460c95c3c2e4
+[2025-03-12T19:28:48.584Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:29:48.605Z] 🚀 Requesting faucet for address: 0x7f39...0eCa
+[2025-03-12T19:29:50.342Z] ✅ Success! Address: 0x7f39...0eCa
+[2025-03-12T19:29:50.343Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x60246dcd8b1f1cbf39da2e921ab4eacb732f9e8e6d6fe80b06a1c1c57c88e41e
+[2025-03-12T19:29:50.343Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:30:50.373Z] 🚀 Requesting faucet for address: 0xF997...8bEB
+[2025-03-12T19:30:54.337Z] ⚠️ Unexpected Response for 0xF997...8bEB: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
+[2025-03-12T19:30:54.337Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:31:54.341Z] 🚀 Requesting faucet for address: 0x2682...f4e4
+[2025-03-12T19:31:59.869Z] ⚠️ Unexpected Response for 0x2682...f4e4: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-12T19:31:59.869Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-12T19:32:59.909Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
+[2025-03-12T19:33:00.438Z] ⚠️ Unexpected Response for 0xeD7e...ecDD: {"msg":"RPC error response: INTERNAL_ERROR: pending sub-pool is full"}
