@@ -34827,3 +34827,225 @@
 [2025-03-26T13:41:54.118Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
 [2025-03-26T13:41:54.654Z] ✅ Success! Address: 0xeD7e...ecDD
 [2025-03-26T13:41:54.654Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x17ed35b5eb0601758a3a1ec2743fa17a863ed05309d97a66a17edfa603221144
+[2025-03-26T18:27:13.817Z] 🚀 Requesting faucet for address: 0x0000...DE66
+[2025-03-26T18:27:19.211Z] ⚠️ Unexpected Response for 0x0000...DE66: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:27:19.211Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:28:19.229Z] 🚀 Requesting faucet for address: 0xF59C...ab26
+[2025-03-26T18:28:19.548Z] ⚠️ Unexpected Response for 0xF59C...ab26: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:28:19.548Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:29:19.607Z] 🚀 Requesting faucet for address: 0xc67b...dC33
+[2025-03-26T18:29:19.926Z] ⚠️ Unexpected Response for 0xc67b...dC33: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:29:19.926Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:30:19.984Z] 🚀 Requesting faucet for address: 0xB256...A874
+[2025-03-26T18:30:25.302Z] ⚠️ Unexpected Response for 0xB256...A874: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:30:25.302Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:31:25.360Z] 🚀 Requesting faucet for address: 0x15A6...dADc
+[2025-03-26T18:31:30.681Z] ⚠️ Unexpected Response for 0x15A6...dADc: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:31:30.681Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:32:30.712Z] 🚀 Requesting faucet for address: 0xA7C0...71a1
+[2025-03-26T18:32:36.109Z] ⚠️ Unexpected Response for 0xA7C0...71a1: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:32:36.109Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:33:36.154Z] 🚀 Requesting faucet for address: 0xCD2c...97ae
+[2025-03-26T18:33:36.475Z] ⚠️ Unexpected Response for 0xCD2c...97ae: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:33:36.475Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:34:36.506Z] 🚀 Requesting faucet for address: 0x4964...da51
+[2025-03-26T18:34:41.824Z] ⚠️ Unexpected Response for 0x4964...da51: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:34:41.824Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:35:41.881Z] 🚀 Requesting faucet for address: 0x9090...f2A4
+[2025-03-26T18:35:47.203Z] ⚠️ Unexpected Response for 0x9090...f2A4: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:35:47.203Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:36:47.234Z] 🚀 Requesting faucet for address: 0x19a6...b39f
+[2025-03-26T18:36:47.555Z] ⚠️ Unexpected Response for 0x19a6...b39f: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:36:47.555Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:37:47.613Z] 🚀 Requesting faucet for address: 0xf72D...A4fb
+[2025-03-26T18:37:48.069Z] ⚠️ Unexpected Response for 0xf72D...A4fb: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:37:48.069Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:38:48.107Z] 🚀 Requesting faucet for address: 0x6423...722a
+[2025-03-26T18:38:53.424Z] ⚠️ Unexpected Response for 0x6423...722a: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:38:53.424Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:39:53.456Z] 🚀 Requesting faucet for address: 0x6889...24D6
+[2025-03-26T18:39:58.776Z] ⚠️ Unexpected Response for 0x6889...24D6: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:39:58.776Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:40:58.832Z] 🚀 Requesting faucet for address: 0xeCfC...24eE
+[2025-03-26T18:40:59.153Z] ⚠️ Unexpected Response for 0xeCfC...24eE: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:40:59.153Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:41:59.211Z] 🚀 Requesting faucet for address: 0x9eA7...0948
+[2025-03-26T18:41:59.530Z] ⚠️ Unexpected Response for 0x9eA7...0948: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:41:59.530Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:42:59.587Z] 🚀 Requesting faucet for address: 0xB31C...d3B1
+[2025-03-26T18:43:00.118Z] ⚠️ Unexpected Response for 0xB31C...d3B1: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address"}
+[2025-03-26T18:43:00.118Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:44:00.174Z] 🚀 Requesting faucet for address: 0x21e6...7F2c
+[2025-03-26T18:44:05.494Z] ⚠️ Unexpected Response for 0x21e6...7F2c: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:44:05.494Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:45:05.551Z] 🚀 Requesting faucet for address: 0x4e50...A51F
+[2025-03-26T18:45:10.868Z] ⚠️ Unexpected Response for 0x4e50...A51F: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:45:10.868Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:46:10.925Z] 🚀 Requesting faucet for address: 0xd70C...99E2
+[2025-03-26T18:46:11.244Z] ⚠️ Unexpected Response for 0xd70C...99E2: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:46:11.245Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:47:11.301Z] 🚀 Requesting faucet for address: 0x7606...3b1C
+[2025-03-26T18:47:11.620Z] ⚠️ Unexpected Response for 0x7606...3b1C: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:47:11.620Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:48:11.657Z] 🚀 Requesting faucet for address: 0x2277...a323
+[2025-03-26T18:48:16.986Z] ⚠️ Unexpected Response for 0x2277...a323: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:48:16.986Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:49:17.020Z] 🚀 Requesting faucet for address: 0x36Bb...9B5C
+[2025-03-26T18:49:22.338Z] ⚠️ Unexpected Response for 0x36Bb...9B5C: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T18:49:22.338Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:50:22.345Z] 🚀 Requesting faucet for address: 0x1596...E5db
+[2025-03-26T18:50:22.663Z] ⚠️ Unexpected Response for 0x1596...E5db: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:50:22.663Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:51:22.721Z] 🚀 Requesting faucet for address: 0x7f9A...Ae67
+[2025-03-26T18:51:23.051Z] ⚠️ Unexpected Response for 0x7f9A...Ae67: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:51:23.052Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:52:23.100Z] 🚀 Requesting faucet for address: 0x1a73...3A1B
+[2025-03-26T18:52:23.424Z] ⚠️ Unexpected Response for 0x1a73...3A1B: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host"}
+[2025-03-26T18:52:23.424Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:53:23.481Z] 🚀 Requesting faucet for address: 0x5e63...405e
+[2025-03-26T18:53:23.801Z] ⚠️ Unexpected Response for 0x5e63...405e: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: connection refused"}
+[2025-03-26T18:53:23.801Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:54:23.822Z] 🚀 Requesting faucet for address: 0x1Afe...13bF
+[2025-03-26T18:54:24.143Z] ✅ Success! Address: 0x1Afe...13bF
+[2025-03-26T18:54:24.143Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xad1a3f1a6fbd46ac6bccba388851bd447165273dcb6b0d4f619405ba0eb7e91d
+[2025-03-26T18:54:24.143Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:55:24.169Z] 🚀 Requesting faucet for address: 0x7cC4...Ac27
+[2025-03-26T18:55:24.491Z] ✅ Success! Address: 0x7cC4...Ac27
+[2025-03-26T18:55:24.491Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf359ba300eaa3f93baf237acc2ad6c5f15f00701403bfb76700e0b616fb2dba6
+[2025-03-26T18:55:24.491Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:56:24.549Z] 🚀 Requesting faucet for address: 0x0147...fe2f
+[2025-03-26T18:56:28.816Z] ✅ Success! Address: 0x0147...fe2f
+[2025-03-26T18:56:28.816Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x60d4f287199f3d00bec6f691b2b8b1f98af90e96602f24e917760d4dc786969b
+[2025-03-26T18:56:28.816Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:57:28.858Z] 🚀 Requesting faucet for address: 0x5Fd5...5d01
+[2025-03-26T18:57:29.183Z] ✅ Success! Address: 0x5Fd5...5d01
+[2025-03-26T18:57:29.183Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc9abee8e43d180feff4da9b373d2632798c1c69c4372002fd8d39fdb9f30449f
+[2025-03-26T18:57:29.183Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:58:29.210Z] 🚀 Requesting faucet for address: 0x0001...B22E
+[2025-03-26T18:58:29.543Z] ✅ Success! Address: 0x0001...B22E
+[2025-03-26T18:58:29.543Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdacafee421e8dc193263b004d465fb843cd13c865dde74493f71ab08b750fd10
+[2025-03-26T18:58:29.543Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T18:59:29.579Z] 🚀 Requesting faucet for address: 0xe86C...A89D
+[2025-03-26T18:59:29.904Z] ✅ Success! Address: 0xe86C...A89D
+[2025-03-26T18:59:29.904Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8b7d1fa7d42aa4773cdc4a3c59aa64559facdc44fdc7c79980d0aa997b36aed1
+[2025-03-26T18:59:29.904Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:00:29.961Z] 🚀 Requesting faucet for address: 0x7480...41C3
+[2025-03-26T19:00:30.282Z] ✅ Success! Address: 0x7480...41C3
+[2025-03-26T19:00:30.282Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcfa8df5da53a5e2fb356783253b28b3283c0205a27c8def8f6cd979ef25e6659
+[2025-03-26T19:00:30.282Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:01:30.335Z] 🚀 Requesting faucet for address: 0x7036...cd73
+[2025-03-26T19:01:30.661Z] ✅ Success! Address: 0x7036...cd73
+[2025-03-26T19:01:30.661Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa3e4dce588b3e7ef018a3014066605bbda7b05c2bafe5339a83dbdea5c4e5d47
+[2025-03-26T19:01:30.661Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:02:30.718Z] 🚀 Requesting faucet for address: 0x2ccE...7922
+[2025-03-26T19:02:31.050Z] ✅ Success! Address: 0x2ccE...7922
+[2025-03-26T19:02:31.050Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x74295128ee927baf5f209a888d5c55eabaea12359799ee22cee3a47ac6fbebaf
+[2025-03-26T19:02:31.050Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:03:31.071Z] 🚀 Requesting faucet for address: 0x46F7...D4D7
+[2025-03-26T19:03:31.403Z] ✅ Success! Address: 0x46F7...D4D7
+[2025-03-26T19:03:31.403Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa737a699768013af936775501c5859bb11f547287c8bea6cbbe9920d6ca97b0d
+[2025-03-26T19:03:31.404Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:04:31.450Z] 🚀 Requesting faucet for address: 0x9265...A554
+[2025-03-26T19:04:31.780Z] ✅ Success! Address: 0x9265...A554
+[2025-03-26T19:04:31.780Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x86a5ab0c589e703b416c50b2aa20f0844500d9059e994a0bf01536cb064ed7ea
+[2025-03-26T19:04:31.780Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:05:31.806Z] 🚀 Requesting faucet for address: 0xdBd5...1cb4
+[2025-03-26T19:05:32.137Z] ✅ Success! Address: 0xdBd5...1cb4
+[2025-03-26T19:05:32.137Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xeb8e5f63daffc48ccd84bb8edc83b783554e949918198526d59be54498f31e60
+[2025-03-26T19:05:32.137Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:06:32.146Z] 🚀 Requesting faucet for address: 0x4a64...af28
+[2025-03-26T19:06:32.472Z] ✅ Success! Address: 0x4a64...af28
+[2025-03-26T19:06:32.473Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1d18b3075efa392a5e2541f3c7ee419b3f7ecd8b071070bf9cc0bd0a7a1f2fc9
+[2025-03-26T19:06:32.473Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:07:32.499Z] 🚀 Requesting faucet for address: 0x844b...440d
+[2025-03-26T19:07:33.052Z] ✅ Success! Address: 0x844b...440d
+[2025-03-26T19:07:33.052Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9308eea6c7b382d5f34c76e7e757efc21d27690ab77ca668cd1bcf7ec3730e8d
+[2025-03-26T19:07:33.052Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:08:33.108Z] 🚀 Requesting faucet for address: 0x18DD...7F1F
+[2025-03-26T19:08:33.447Z] ✅ Success! Address: 0x18DD...7F1F
+[2025-03-26T19:08:33.447Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x07bf3353203f3deace2083463038182aeeaab774fd67cb72efe8aa2871f25504
+[2025-03-26T19:08:33.447Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:09:33.505Z] 🚀 Requesting faucet for address: 0x7294...1131
+[2025-03-26T19:09:33.844Z] ✅ Success! Address: 0x7294...1131
+[2025-03-26T19:09:33.844Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc5e7cb3866d8b85bb87c19ae6d560cb45b4b2f7e3e8da7deef16047463377ff3
+[2025-03-26T19:09:33.844Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:10:33.861Z] 🚀 Requesting faucet for address: 0xe3d5...db6f
+[2025-03-26T19:10:34.192Z] ✅ Success! Address: 0xe3d5...db6f
+[2025-03-26T19:10:34.192Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd6854109870a00002910f1b3c7021fa1f8552d75a7d8314fba6f580e83b61d99
+[2025-03-26T19:10:34.192Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:11:34.248Z] 🚀 Requesting faucet for address: 0x7DDA...A056
+[2025-03-26T19:11:34.581Z] ✅ Success! Address: 0x7DDA...A056
+[2025-03-26T19:11:34.581Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd03de5a0e323044a7dcded43ce16f96d60e6d4a0147527c1d4672f01413d964e
+[2025-03-26T19:11:34.581Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:12:34.632Z] 🚀 Requesting faucet for address: 0x0917...B93e
+[2025-03-26T19:12:34.966Z] ✅ Success! Address: 0x0917...B93e
+[2025-03-26T19:12:34.966Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8bc19ad39bebb80eb0427fa9738cff32c7baae2034862bb98d15d216ac8a867b
+[2025-03-26T19:12:34.966Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:13:34.999Z] 🚀 Requesting faucet for address: 0xbF21...8350
+[2025-03-26T19:13:35.345Z] ✅ Success! Address: 0xbF21...8350
+[2025-03-26T19:13:35.345Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb63bd8bd149a0de919f17f8932cb8faa8e5b91734bc837c66d66383ff9d732ce
+[2025-03-26T19:13:35.345Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:14:35.384Z] 🚀 Requesting faucet for address: 0xB3Db...C0AD
+[2025-03-26T19:14:35.735Z] ✅ Success! Address: 0xB3Db...C0AD
+[2025-03-26T19:14:35.735Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd35344338841a68f04ed20315597b7e116aa6cba28efff0ec15ddec62d4ee50e
+[2025-03-26T19:14:35.735Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:15:35.784Z] 🚀 Requesting faucet for address: 0x0345...a14D
+[2025-03-26T19:15:36.119Z] ✅ Success! Address: 0x0345...a14D
+[2025-03-26T19:15:36.120Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xff886011edd520539f4e4a99cb2e04e4206cff3ebf815cfcaf156dc6910e61b9
+[2025-03-26T19:15:36.120Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:16:36.121Z] 🚀 Requesting faucet for address: 0x3A64...a6fc
+[2025-03-26T19:16:36.486Z] ✅ Success! Address: 0x3A64...a6fc
+[2025-03-26T19:16:36.486Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8abb71780ce04de5e7bfe96622a6ef7dcea2203d6a208403013c2e793a6a9729
+[2025-03-26T19:16:36.486Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:17:36.494Z] 🚀 Requesting faucet for address: 0xf461...4c0d
+[2025-03-26T19:17:36.824Z] ⚠️ Unexpected Response for 0xf461...4c0d: {"msg":"Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address"}
+[2025-03-26T19:17:36.824Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:18:36.880Z] 🚀 Requesting faucet for address: 0xd57D...275E
+[2025-03-26T19:18:37.463Z] ✅ Success! Address: 0xd57D...275E
+[2025-03-26T19:18:37.463Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa20beeaca675626a424140826bce25a6f44b47b5b359527acbb2b6218efb3799
+[2025-03-26T19:18:37.463Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:19:37.486Z] 🚀 Requesting faucet for address: 0x93DD...549c
+[2025-03-26T19:19:39.709Z] ✅ Success! Address: 0x93DD...549c
+[2025-03-26T19:19:39.710Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x518e25350be213383a722bc160d922d4a9a9231adff6ebd424d4ea41706d4906
+[2025-03-26T19:19:39.710Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:20:39.722Z] 🚀 Requesting faucet for address: 0xb7b9...8eE5
+[2025-03-26T19:20:40.176Z] ✅ Success! Address: 0xb7b9...8eE5
+[2025-03-26T19:20:40.176Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1a06800d5c760479e12dabd05e63ab9c041070ecc7870ff8642e335271663c93
+[2025-03-26T19:20:40.176Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:21:40.233Z] 🚀 Requesting faucet for address: 0xEf58...EB45
+[2025-03-26T19:21:40.582Z] ✅ Success! Address: 0xEf58...EB45
+[2025-03-26T19:21:40.582Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa1acd58bb45676e0c48f5daec8036b5cceda491162aee4461b02af9345fbdb4d
+[2025-03-26T19:21:40.582Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:22:40.596Z] 🚀 Requesting faucet for address: 0xcB9e...f723
+[2025-03-26T19:22:45.913Z] ⚠️ Unexpected Response for 0xcB9e...f723: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T19:22:45.913Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:23:45.922Z] 🚀 Requesting faucet for address: 0xd1A3...6774
+[2025-03-26T19:23:47.584Z] ✅ Success! Address: 0xd1A3...6774
+[2025-03-26T19:23:47.584Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x63304c3a51220a123e3385082254809e896fc0b8a1467dd926e29f32191d26bf
+[2025-03-26T19:23:47.584Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:24:47.606Z] 🚀 Requesting faucet for address: 0xC55b...A87e
+[2025-03-26T19:24:48.269Z] ✅ Success! Address: 0xC55b...A87e
+[2025-03-26T19:24:48.269Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x25344334d189b3377a1577efe7a23a5fbdbf455fed732c9b0a5d32919227709e
+[2025-03-26T19:24:48.269Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:25:48.326Z] 🚀 Requesting faucet for address: 0x1047...6814
+[2025-03-26T19:25:50.838Z] ✅ Success! Address: 0x1047...6814
+[2025-03-26T19:25:50.839Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x442070568d9d032f7c9179abae91d35fae98847de4b7bc13462d35e47122465a
+[2025-03-26T19:25:50.839Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:26:50.842Z] 🚀 Requesting faucet for address: 0x0860...1985
+[2025-03-26T19:26:55.995Z] ✅ Success! Address: 0x0860...1985
+[2025-03-26T19:26:55.995Z] 🔗 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd429a3fd89ed83ba135250c84583d8ca9a3f4583b0628788c44bc64f3a911393
+[2025-03-26T19:26:55.995Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:27:56.021Z] 🚀 Requesting faucet for address: 0x3ca5...01A6
+[2025-03-26T19:28:01.342Z] ⚠️ Unexpected Response for 0x3ca5...01A6: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T19:28:01.342Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:29:01.398Z] 🚀 Requesting faucet for address: 0x7f39...0eCa
+[2025-03-26T19:29:06.778Z] ⚠️ Unexpected Response for 0x7f39...0eCa: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T19:29:06.778Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:30:06.835Z] 🚀 Requesting faucet for address: 0xF997...8bEB
+[2025-03-26T19:30:12.152Z] ⚠️ Unexpected Response for 0xF997...8bEB: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T19:30:12.152Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:31:12.203Z] 🚀 Requesting faucet for address: 0x2682...f4e4
+[2025-03-26T19:31:17.524Z] ⚠️ Unexpected Response for 0x2682...f4e4: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
+[2025-03-26T19:31:17.524Z] ⏳ Waiting 1 minute before the next request...
+[2025-03-26T19:32:17.558Z] 🚀 Requesting faucet for address: 0xeD7e...ecDD
+[2025-03-26T19:32:22.877Z] ⚠️ Unexpected Response for 0xeD7e...ecDD: {"msg":"Post \"http://hp-testnet-rpc.service.consul:8545\": context deadline exceeded"}
